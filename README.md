@@ -7,7 +7,7 @@ To top it off it runs in O(n) execution time.
 
 If interested take a look at the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/01/maximum-subarray-sum-kadanes-algorithm/
 
 Keep on reading and experimenting. It is the best way to learn!
 
